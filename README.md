@@ -7,7 +7,7 @@
 - I’m currently learning **Go**
 
 
-my CV: [Alex Mamonchik.pdf](cv.pdf)
+my CV: [Alex Mamonchik.pdf](https://github.com/alexmamonchik/alexmamonchik/blob/main/cv_alex.pdf)
 
 ### Recent Projects:
 
