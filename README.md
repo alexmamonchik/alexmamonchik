@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/alexmamonchik/alexmamonchik/main/cv_alex.pdf)
 
 ### Recent Projects:
 
+- [BGaming](https://bgaming.com/games/lucky-dragon-multidice-x)
 - [CheckYa](https://checkya.com/)
 - [MyCredits](https://www.crunchbase.com/organization/mycredits)
 - [EasyPaint](https://easypaint.com/)
